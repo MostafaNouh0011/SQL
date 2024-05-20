@@ -1,7 +1,8 @@
 # SQL Fundamentals Repository
 
 Welcome to the SQL Fundamentals Repository! This repository serves as a comprehensive learning hub covering all aspects of SQL, from basic to advanced concepts.
----
+
+
 
 ## Contents
 
